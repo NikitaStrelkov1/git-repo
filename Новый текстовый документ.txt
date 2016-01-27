@@ -1,2 +1,7 @@
-print ("hello world")
-привкт мир
+
+print ("hello world");
+привкт мир;
+=======
+print ("hello world");
+hello my dear friend;
+>>>>>>> Р°Р°Р°Р°Р°Р°Р°Р;°
