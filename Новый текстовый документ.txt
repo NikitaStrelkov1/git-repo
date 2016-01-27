@@ -1,2 +1,7 @@
+
+print ("hello world");
+ïðèâêò ìèð;
+=======
 print ("hello world");
 hello my dear friend;
+>>>>>>> Ð°Ð°Ð°Ð°Ð°Ð°Ð°Ð;°
