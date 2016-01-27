@@ -1,2 +1,2 @@
-print ("hello world")
-hello my dear friend
+print ("hello world");
+hello my dear friend;
